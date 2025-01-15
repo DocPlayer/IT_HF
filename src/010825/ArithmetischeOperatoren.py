@@ -1,0 +1,11 @@
+num_1 = 42
+num_2 = 7
+num_3 = 6.1
+print(num_1 + num_2)
+print(num_1 - num_2)
+print(num_1 * num_2)
+print(num_1 / num_2)
+print(num_1 ** num_2)
+print(num_1 % num_2)
+print(num_1 % num_3)
+print(num_1 // num_3)
