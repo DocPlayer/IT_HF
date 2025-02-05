@@ -26,7 +26,7 @@ def main():
         try:
             height = float(input("Geben Sie ihre Körpergrösse an (m): "))
         except ValueError as err:
-            print("Invalid input value!")
+            print("Invalid input valuee!")
             print(err)
 
     calculate_bmi(weight, height)
@@ -34,3 +34,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
